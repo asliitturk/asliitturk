@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on **Data Science**
 
+- 🌱 I’m currently learning **Machine Learning and Statistics**
+
 - 📫 How to reach me **asliitturk@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
